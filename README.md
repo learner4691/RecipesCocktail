@@ -106,6 +106,9 @@ cd "COCTAIL(server)"
 npm install
 npm start
 
+# Корневая директория проекта
+cd RecipesCocktail
+
 # Установка зависимостей и запуск Frontend
 cd "COCTAIL(frontend)"
 npm install
