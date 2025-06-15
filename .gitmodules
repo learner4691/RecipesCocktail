@@ -1,0 +1,6 @@
+[submodule "COCTAIL(server)"]
+	path = COCTAIL(server)
+	url = https://github.com/learner4691/RecipesCocktail-Server.git
+[submodule "COCTAIL(frontend)"]
+	path = COCTAIL(frontend)
+	url = https://github.com/learner4691/RecipesCocktail-Frontend.git
