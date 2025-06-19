@@ -106,6 +106,7 @@ cd "COCTAIL(server)"
 npm install
 npm start
 
+# Новое окно в bash
 # Корневая директория проекта
 cd RecipesCocktail
 
